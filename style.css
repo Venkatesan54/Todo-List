@@ -114,3 +114,8 @@ ul li span:hover{
     background-color: #edeef3;
     border-radius: 50%;
 }
+@media screen and (max-width:767px) {
+    button{
+        padding: 10px 20px;
+    }
+}
